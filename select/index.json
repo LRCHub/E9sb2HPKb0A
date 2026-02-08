@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "夏が終わる",
+  "base_artist": "ナナツカゼ",
+  "createdAt": "2026-02-08T12:52:14.288007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏が終わる",
+      "artist": "SPITZ",
+      "has_synced": false,
+      "path": "select/01_夏が終わる_SPITZ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏が終わる",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/02_夏が終わる_スピッツ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏が終わる",
+      "artist": "MEG",
+      "has_synced": false,
+      "path": "select/03_夏が終わる_MEG.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夏が終わる～夏の日のオマージュ～",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/04_夏が終わる~夏の日のオマージュ~_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夏が終わる〜夏の日のオマージュ〜",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/05_夏が終わる〜夏の日のオマージュ〜_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夏が終わる ～夏の日のオマージュ～",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/06_夏が終わる_~夏の日のオマージュ~_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夏が終わる",
+      "artist": "ナナツカゼ",
+      "has_synced": true,
+      "path": "select/07_夏が終わる_ナナツカゼ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏が終わる",
+      "artist": "ナナツカゼ",
+      "has_synced": false,
+      "path": "select/pl_01_夏が終わる_ナナツカゼ.txt"
+    }
+  ]
+}
